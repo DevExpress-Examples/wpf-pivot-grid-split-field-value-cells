@@ -3,18 +3,18 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E2764)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
+
+# Pivot Grid for WPF - Split Field Value Cells
+
+The following example demonstrates how to split field value cells. In this example, the Grand Total column header is split into two cells: _Price_ and _Count_.
+
+![Pivot Grid](./images/PivotGrid.png)
+
+## Files to Review
 
 * [Window1.xaml](./CS/Window1.xaml) (VB: [Window1.xaml](./VB/Window1.xaml))
 * [Window1.xaml.cs](./CS/Window1.xaml.cs) (VB: [Window1.xaml.vb](./VB/Window1.xaml.vb))
-<!-- default file list end -->
-# How to split field value cells
 
+## More Examples 
 
-<p>The following example demonstrates how to split field value cells.</p><p>In this example, the Grand Total column header is split into two cells: Price and Count. To do this, the CustomFieldValueCells event is handled, and the event parameter's Split method is used. Cells that should be split are identified by a predicate that returns true for those cells. The quantity, size and captions of newly created cells are specified by an array of cell definitions (the FieldValueSplitData objects).</p><br />
-
-
-<br/>
-
-
+[Pivot Grid for WPF - How to Hide Specific Rows and Columns](https://github.com/DevExpress-Examples/wpf-pivot-grid-hide-specific-columns-and-row)
