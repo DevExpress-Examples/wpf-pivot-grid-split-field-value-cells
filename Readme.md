@@ -22,7 +22,7 @@ Handle the [CustomFieldValueCells](https://docs.devexpress.com/WPF/DevExpress.Xp
 
 [Pivot Grid for WPF - How to Hide Specific Rows and Columns](https://github.com/DevExpress-Examples/wpf-pivot-grid-hide-specific-columns-and-row)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-pivot-grid-split-field-value-cells&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-pivot-grid-split-field-value-cells&~~~was_helpful=no)
 
